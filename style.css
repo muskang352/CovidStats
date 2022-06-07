@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+
+}
+h1{
+    margin-top: 50px !important;
+    margin-bottom: 25px !important;
+    background-color: #09203f;
+    color: rgb(255, 255, 255) !important;
+    border-radius: 5px;
+}
+thead{
+    background-color: #09203f !important;
+    color: aliceblue;
+}
